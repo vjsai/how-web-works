@@ -22,6 +22,7 @@ The end goal of the repo is to implement each and every component in minialistic
  - [ ] Understanding HTTP protocol
  
  ## Frontend Concepts :
+ - [ ] Understanding Template Engine
  - [ ] Understanding React
  - [ ] Understanding Redux
  
