@@ -1,4 +1,3 @@
-//Refer Bare Bone's OSDEV Wiki https://wiki.osdev.org/Bare_Bones
 GCCPARAMS = -m32  -nostdlib -fno-builtin -fno-rtti -fno-exceptions -fno-leading-underscore
 ASPARAMS = --32
 LDPARAMS = -melf_i386
